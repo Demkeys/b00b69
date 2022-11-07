@@ -9,3 +9,5 @@ Instructions:
 * Save the file and if there are no errors the theme should take effect.
 
 I'll be working on this theme over time, tweaking values and adding settings as necesary. I made this for my own use, so didn't bother creating an extension out of it. If there's a lot of people interested in it, I might consider making it an extension, but for now just copying and pasting this code works just fine. Enjoy!
+
+![](https://github.com/Demkeys/b00b69/blob/main/b00b69screencap.png)
