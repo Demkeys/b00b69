@@ -8,6 +8,8 @@ Instructions:
 * Copy the code from [this](https://github.com/Demkeys/b00b69/blob/main/settings.json) file into your ```settings.json``` file, within the existing curly braces. You have to take care of JSON syntax while doing this. So if there's existing code within the curly braces, remember to add a comma and then paste the theme code.  
 * Save the file and if there are no errors the theme should take effect.
 
+NOTE: If you're applying this theme to VS Code on Linux, some settings (eg. menu related settings) might get ignored. I'll try to find a fix for it.
+
 I'll be working on this theme over time, tweaking values and adding settings as necesary. I made this for my own use, so didn't bother creating an extension out of it. If there's a lot of people interested in it, I might consider making it an extension, but for now just copying and pasting this code works just fine. Enjoy!
 
 ![](https://github.com/Demkeys/b00b69/blob/main/b00b69screencap.png)
