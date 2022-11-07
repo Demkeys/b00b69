@@ -1,0 +1,22 @@
+// Your settings.json file will have a pair of curly brackets and all the settings related code goes inside that. Some existing settings code might already be there. If there is, remember to add a comma after it and then paste the theme code.
+{
+
+  // Copy this code
+  //////////////////////////////////
+  "workbench.colorCustomizations": {
+        "statusBar.background": "#710844",
+        "activityBar.activeBackground": "#710844",
+        "activityBar.background": "#450529",
+        "minimap.background": "#330c22",
+        "sideBar.background": "#2e041c",
+        "editor.background": "#2a111f",
+        "editorLineNumber.foreground": "#a6417a",
+        "editorLineNumber.activeForeground": "#c78bad",
+        "editorGroupHeader.tabsBackground": "#2f031c",
+        "tab.activeBackground": "#500f32",
+        "tab.inactiveBackground": "#340921",
+        "menu.background": "#450529",
+        "breadcrumb.foreground": "#b9779d"
+    },
+  //////////////////////////////////
+}
